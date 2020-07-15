@@ -1,5 +1,19 @@
 {
-"game_state": "new_game",
-"letters" : ["","","","","","","","","","","",""]
-"correct_word" : ["","","","","","","","","","","",""]
+  "game_state": "playing",
+  "letters": [
+    "_ ",
+    "_ ",
+    "_ ",
+    "_ ",
+    "_ ",
+    "_ ",
+    "_ ",
+    "_ ",
+    "_ "
+  ],
+  "correct_word": "citizenly",
+  "guess_letters": [
+
+  ],
+  "guess_count": 0
 }
